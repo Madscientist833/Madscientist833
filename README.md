@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Madscientist833, a sophomore undergraduate student in Peking University(pku).My major is artificial intelligence
-- 👀 I’m interested in AGI
+- 👀 I’m interested in AGI, multimodel learning
 - 🌱 I’m currently learning computer vision and multimodel learning
-- 💞️ I’m looking for RA position in CV/multimodel learning area
 - 📫 Please contact me by 2000016625@stu.pku.edu.cn
 
 <!---
