@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Madscientist833, a sophomore undergraduate student in Peking University(pku).My major is artificial intelligence
+- 👋 Hi, I’m @Madscientist833, a 1st year master student at Dartmouth College major in AI.
 - 👀 I’m interested in multimodel learning, computervision
 - 🌱 I’m currently learning computer vision and multimodel learning
-- 📫 Please contact me by 2000016625@stu.pku.edu.cn
+- 📫 Please contact me by youran.qu.gr@daartmouth.edu
 
 <!---
 Madscientist833/Madscientist833 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
